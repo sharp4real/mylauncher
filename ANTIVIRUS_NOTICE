@@ -1,0 +1,42 @@
+# ⚠️ Antivirus & Administrator Permissions Notice
+
+## 🛡️ Why Antivirus Might Flag MyLauncher
+MyLauncher is a small, custom-built project — **not a signed, commercial application**.  
+Some antivirus programs (especially Windows Defender SmartScreen) can **mistake unsigned installers** for potential threats because they haven't been verified by a trusted certificate authority.
+
+**Important:**  
+- This is called a *false positive*.  
+- MyLauncher does **not** contain viruses, spyware, or malicious code.  
+- The warning happens simply because the installer is new and not widely downloaded.
+
+---
+
+## 🔧 Why You Might Need to Disable Antivirus Temporarily
+- Certain antivirus tools may **block the installer from running** or **delete files during installation**.  
+- This can break the setup process or cause MyLauncher to not work properly.
+
+**If this happens:**
+1. Temporarily **pause or disable** your antivirus software.
+2. Install MyLauncher.
+3. **Re-enable your antivirus** after installation is complete.
+
+---
+
+## 👑 Why You Should Run as Administrator
+MyLauncher needs to:
+- Create folders in protected locations.
+- Write configuration files for all users.
+- Install dependencies required for it to function.
+
+Running the installer as **Administrator** ensures:
+- All files are installed correctly.
+- No permission errors occur during setup.
+
+---
+
+## ✅ Summary
+- Antivirus may flag MyLauncher because it’s unsigned, not because it’s harmful.
+- Disabling antivirus temporarily can prevent installation issues.
+- Running as administrator ensures a smooth setup.
+
+> **Reminder:** Always re-enable your antivirus after installation is complete.
