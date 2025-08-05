@@ -1,7 +1,7 @@
 <h1 align="center">🚀 MyLauncher</h1>
 
 <p align="center">
-  <img src="https://github.com/sharp4real/mylauncher/blob/main/Screenshot%202025-08-05%20160647.png?raw=true" width="600" alt="MyLauncher Banner">
+  <img src="https://github.com/sharp4real/mylauncher/blob/main/Screenshot%202025-08-05%20160616.png?raw=true" width="600" alt="MyLauncher Banner">
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/sharp4real/mylauncher/blob/main/Screenshot%202025-08-05%20160616.png?raw=true">
+  <img src="https://github.com/sharp4real/mylauncher/blob/main/Screenshot%202025-08-05%20160647.png?raw=true">
 </p>
 
 ---
