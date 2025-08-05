@@ -1,7 +1,7 @@
 <h1 align="center">🚀 MyLauncher</h1>
 
 <p align="center">
-  <img src="https://lh6.googleusercontent.com/OdOvA9e2od-IEKsUPnUtAPzd9PJ13MPNm57IeLgqoKhD1bMwQ38642qQ9DXqpNYyjIeQzb_x68hNrqefLFp6qG_GQzzp1wCXPpD9dBtaOs3awLAWx61wIXdTNIr17e2iuJqW9RNzhyKeyNk4Vq08mj-5wqnLXRLu79nEQSfTw8zGQnUPAuivMg=w1280" width="600" alt="MyLauncher Banner">
+  <img src="https://github.com/sharp4real/mylauncher/blob/main/Screenshot%202025-08-05%20160647.png?raw=true" width="600" alt="MyLauncher Banner">
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@
 
 
 <p align="center">
-  <img src="https://lh5.googleusercontent.com/MDnBHbAYkQOrVkE99eQsnDE1Lf-l7VlscLJdWNRbacfg6VcceBM2pd_Na3kdmosfOMgQRtO86nDEXK-mrcAEaPdR2zaPbXRwvwzAUnmyqB1eKsJVbnlIaFqzBySS5o1lpLqNuhx7uvLzT5udcERbcWCH4TKUlfVr_hKhbrT315-4us0ONMFgFw=w1280" width="500" alt="MyLauncher Screenshot">
+  <img src="https://github.com/sharp4real/mylauncher/blob/main/Screenshot%202025-08-05%20160616.png?raw=true">
 </p>
 
 ---
