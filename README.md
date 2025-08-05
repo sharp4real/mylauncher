@@ -1,11 +1,38 @@
-# Mylauncher
-A Program that allows you to add apps, games, folders all in one place, with smart features like auto detect and search tool.
+<h1 align="center">🚀 MyLauncher</h1>
 
-Disclaimer: This is just a project, not a proper company or money making product.
+<p align="center">
+  <img src="https://bing.com/th/id/BCO.a3f574c3-8472-47b0-af2b-372624d73180.png" width="600" alt="MyLauncher Banner">
+</p>
 
-HOW TO SETUP ON YOUR COMPUTER (Windows)
+<p align="center">
+  <b>Add your apps, games, and folders — all in one sleek place.</b><br>
+  Smart features like <i>auto-detect</i> and an integrated <i>search tool</i> make it fast & easy.<br>
+</p>
 
-1. Go to the releases section of this Github repository, and you should see a file called MyLauncher_Setup-x64-en.exe.
-2. Download the file on your device, if you get a smartscreen warning its just because the app is not verfied, click show more info and run anyway.
-3. Press the Install option, Make sure it has sufficient permissions to install all the file(s) - Admnistrator.
-4. Your all setup! Thanks for using my app.
+---
+
+### ⚠️ Disclaimer
+> This is just a fun personal project — not a commercial product.
+
+---
+
+## 🛠️ Setup (Windows)
+
+1. Go to the **[Releases](../../releases)** section of this repository.  
+2. Download **`MyLauncher_Setup-x64-en.exe`**.  
+3. If Windows SmartScreen warns you:  
+   - Click **"Show more"** → **"Run anyway"**.  
+4. Click **Install** and allow administrator permissions.  
+5. ✅ **Done!** Launch MyLauncher and enjoy.  
+
+---
+
+
+<p align="center">
+  <img src="https://github.com/replays42/r2354231tgf43t35463/blob/main/Screenshot%202025-08-04%20164701.png?raw=true" width="500" alt="MyLauncher Screenshot">
+</p>
+
+---
+
+## ⭐ Like this project?
+Star the repo — it means a lot! 🌟
