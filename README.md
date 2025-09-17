@@ -19,7 +19,7 @@
 ## 🛠️ Setup (Windows)
 
 1. Go to the **[Releases](../../releases)** section of this repository.  
-2. Download **`MyLauncher_Setup-x64-en.exe`**.  
+2. Download **`MyLauncher Setup.exe`**.  
 3. If Windows SmartScreen warns you:  
    - Click **"Show more"** → **"Run anyway"**.  
 4. Click **Install** and allow administrator permissions.  
